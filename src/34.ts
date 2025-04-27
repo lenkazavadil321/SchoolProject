@@ -1,0 +1,7 @@
+let age = 18;
+
+function greet(name: string): void {
+    console.log(`Hello, ${name}!`);
+}
+
+greet("Alice");
